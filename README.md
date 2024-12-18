@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ---
+
 I am a doe'r of dumb things :D
+
 ---
 
 <!--
