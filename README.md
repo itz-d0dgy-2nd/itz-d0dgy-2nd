@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+---
+I am a doe'r of dumb things :D
+---
+
 <!--
 **itz-d0dgy-2nd/itz-d0dgy-2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
