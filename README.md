@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 I'm Jack Moran, some may know me as itz-d0dgy. I'm an offensive security consultant, and security researcher based in Wellington, New Zealand. I am by no means an expert on anything, and I like to twiddle my thumbs doing dumb things and write badly written posts about it. Welcome to my new GitHub, I say new as I have locked myself out of my main one [here](https://github.com/itz-d0dgy).
 
-To verify this is my account please goto my [website](https://www.itz-d0dgy.nz/about-me/)
+To verify this is my account please goto my [website](https://www.itz-d0dgy.nz/about-me#github)
